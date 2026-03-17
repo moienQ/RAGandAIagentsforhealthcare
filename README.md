@@ -2,7 +2,20 @@
 
 > AI-powered medical imaging analysis for doctors. Upload X-rays, MRI, CT scans, or lab reports and get structured AI diagnostic insights in under 30 seconds. Built with Generative AI and advanced CNN inference.
 
+## Screenshots
+
+| Login | Dashboard |
+|---|---|
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+
+| Upload & Analyze | AI Report |
+|---|---|
+| ![Upload](screenshots/upload.png) | ![Report](screenshots/report.png) |
+
+---
+
 ## Tech Stack
+
 
 | Layer | Technology |
 |---|---|
