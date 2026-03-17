@@ -1,0 +1,36 @@
+# Core API
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+
+# Google Gemini AI
+google-genai>=1.0.0
+
+# Supabase
+supabase>=2.4.0
+
+# ML / Data (risk model)
+joblib>=1.4.0
+pandas>=2.2.0
+scikit-learn>=1.5.0
+
+# CNN inference (EfficientNetV2)
+# CPU-only torch — remove +cpu suffix if you have a GPU
+torch>=2.2.0
+torchvision>=0.17.0
+numpy>=1.26.0
+
+# DICOM file support
+pydicom>=2.4.0
+
+# File / Image handling
+python-multipart>=0.0.9
+Pillow>=10.3.0
+aiofiles>=23.2.0
+
+# HTTP
+httpx>=0.27.0
+
+# Config
+python-dotenv>=1.0.1
+pydantic>=2.7.0
+pydantic-settings>=2.2.0
